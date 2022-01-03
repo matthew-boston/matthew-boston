@@ -2,7 +2,7 @@
 
 # Hi, I'm Matt 👋
 
-My name is Matt Boston and i'm currently studying to become a WebOps Engineer! I'm study at the University Of Suffolk. You can contact me on [LinkedIn](https://www.linkedin.com/in/matthew-boston/) or [Personal Site](https://mattboston.co.uk).
+My name is Matt Boston and i'm currently studying to become a WebOps Engineer! I'm studying at the University of Suffolk. You can contact me on [LinkedIn](https://www.linkedin.com/in/matthew-boston/) or [Personal Site](https://mattboston.co.uk).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Os-MacoS-informational?style=flat&logo=apple&logoColor=white) 
