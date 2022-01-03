@@ -11,3 +11,4 @@ My name is Matt Boston and i'm currently studying to become a WebOps Engineer! I
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white)
