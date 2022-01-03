@@ -1,3 +1,4 @@
+![Cover Image](https://github.com/matthew-boston/matthew-boston/edit/main/coverImage.jpeg)
 # Hi, I'm Matt 👋
 
 My name is Matt Boston and i'm currently studying to become a WebOps Engineer! I'm study at the University Of Suffolk. You can contact me on [LinkedIn](https://www.linkedin.com/in/matthew-boston/) or [Personal Site](https://mattboston.co.uk).
