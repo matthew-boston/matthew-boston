@@ -5,6 +5,7 @@ My name is Matt Boston and i'm currently studying to become a WebOps Engineer! I
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Os-MacoS-informational?style=flat&logo=apple&logoColor=white) 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-Scss-informational?style=flat&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white)
