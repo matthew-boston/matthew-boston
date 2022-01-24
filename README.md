@@ -1,4 +1,4 @@
-<img src="https://github.com/matthew-boston/matthew-boston/blob/main/coverImage.jpeg" alt="Cover Image" width="100%"/>
+<img src="https://github.com/matthew-boston/matthew-boston/blob/main/coverImage.png" alt="Cover Image" width="100%"/>
 
 # Hi, I'm Matt 👋
 
