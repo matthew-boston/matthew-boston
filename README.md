@@ -14,3 +14,10 @@ My name is Matt Boston and I'm currently studying to become a WebOps Engineer at
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white)
+
+
+## Stats📈 
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthew-boston&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="matthew-boston" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=matthew-boston&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="matthew-boston" /> 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=matthew-boston&theme=highcontrast&hide_border=true" alt="matthew-boston" /> </p>
