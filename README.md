@@ -2,7 +2,7 @@
 
 # Hi, I'm Matt 👋
 
-My name is Matt Boston and I'm currently studying to become a WebOps Engineer at the University of Suffolk. I have a passion for web application and enjoy programming in the MERN stack. You can contact me on [LinkedIn](https://www.linkedin.com/in/matthew-boston/) or [Personal Site](https://mattboston.co.uk).
+My name is Matt Boston and I'm currently studying to become a Web developer/WebOps at the University of Suffolk. I currently am diving into the world of AWS while developing applications and websites in React and NodeJs. You can see some of my work on my [Personal Site](https://mattboston.co.uk) or contact me on [LinkedIn](https://www.linkedin.com/in/matthew-boston/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Os-MacoS-informational?style=flat&logo=apple&logoColor=white) 
