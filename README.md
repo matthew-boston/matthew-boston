@@ -14,7 +14,7 @@ My name is Matt Boston and I'm currently studying to become a WebOps Engineer at
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white)
-
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 
 ## Stats📈 
 <p align="center">
