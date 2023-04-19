@@ -1,7 +1,7 @@
 <img src="https://github.com/matthew-boston/matthew-boston/blob/main/CoverImage.png" alt="Cover Image" width="100%"/>
 
 # Hi, I'm Matt 👋
-Hello! My name is Matt and I'm a JavaScript Developer and DevOps Engineer. I'm currently diving into the world of AWS while developing applications and websites in React and NodeJs. I have an interest in learning new technologies and supporting startup's and other companies with their projects. You can see some of my work on my [Personal Site](https://mattboston.co.uk) or contact me on [LinkedIn](https://www.linkedin.com/in/matthew-boston/).
+Hey! My name is Matt and I'm a JavaScript Developer and DevOps Engineer. I'm currently diving into the world of AWS while developing applications and websites in React and NodeJs. I have an interest in learning new technologies and supporting startup's and other companies with their projects. You can see some of my work on my [Personal Site](https://mattboston.co.uk) or contact me on [LinkedIn](https://www.linkedin.com/in/matthew-boston/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Os-MacoS-informational?style=flat&logo=apple&logoColor=white) 
